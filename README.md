@@ -1,4 +1,4 @@
-# my_first_flutter_app
+# Cardio visualizer app
 
 A new Flutter project.
 
