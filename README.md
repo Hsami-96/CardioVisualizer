@@ -1,6 +1,6 @@
-# my_first_flutter_app
+# Data visualiser App
 
-A new Flutter project.
+App development in progress. Currently learning :)
 
 ## Getting Started
 
